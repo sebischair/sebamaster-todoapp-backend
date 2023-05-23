@@ -1,9 +1,11 @@
 # sebamaster-todoapp-backend
-SEBA Master demo app created during central exercise
+SEBA Master demo app backend created during central exercise
 
-Note: App expects .env file with
+npm run dev to run dev server
 
-PORT=your port of choice\n
+Note: App expects .env file with:
+
+PORT=your port of choice
 
 MONGODB_URI=your MongoDB connection string
 
